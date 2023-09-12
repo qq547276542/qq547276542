@@ -2,7 +2,8 @@
 
 - 🏫 I'm a master of ECNU software engineering (2017-2020), during which I mainly studied NLP and knowledge graph.
 - 🌱 After graduation, I joined the Bytedance SAMI (Speech, Audio & Music Intelligence) team and began to engage in research on text-to-speech, voice conversion, etc.
-- 💬 Contact me by [email](547276542@qq.com).
+- 💬 Contact me by [email](chenyuanzhe@bytedance.com).
+- [Released paper](https://scholar.google.com/citations?user=Y2dqdocAAAAJ&hl=en)
 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=qq547276542&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" /> -->
